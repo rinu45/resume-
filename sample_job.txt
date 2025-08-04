@@ -1,0 +1,5 @@
+We are looking for a Python developer with:
+- 3+ years of experience with Python
+- Experience with Flask or Django frameworks
+- Knowledge of machine learning concepts
+- Bachelor's degree in Computer Science or related field   Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned   Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
